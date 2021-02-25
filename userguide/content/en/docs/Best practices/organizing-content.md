@@ -10,7 +10,7 @@ If you have a look at our [Example Site](https://example.docsy.dev/about/), you'
 the Documentation section into a number of subsections, each with some recommendations about what you might put 
 in that section.
 
-## Do I need to use this structure?
+## テスト入力
 
 Absolutely not! The site structure in the Example Site was created to meet the needs of large docsets for large
 products with lots of features, potential tasks, and reference elements. For a simpler docset (like this one!),
